@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Codieweb
-- 👀 I’m interested in web development and coding
+- 👋 Hi, I’m @iffat hafsa
+- 👀 I’m interested in web development and java developer
 - 🌱 I’m currently learning coding problem solving
 - 💞️ I’m looking to collaborate on coding related problem and analysis
 - 📫 How to reach me mail me hafsaiffat8@gmail.com
